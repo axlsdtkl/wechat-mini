@@ -1,0 +1,22 @@
+[ 2020-05-15T19:05:15+08:00 ] ::1 /treehole/index.php/Home/Message/do_like
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000957s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000741s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000763s ]
+SQL: SHOW COLUMNS FROM `message` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `message` WHERE `id` = 6 LIMIT 1   [ RunTime:0.0005s ]
+SQL: UPDATE `message` SET `total_likes`='1' WHERE `id` = 6 [ RunTime:0.0020s ]
+
+[ 2020-05-15T19:05:39+08:00 ] ::1 /treehole/index.php/Home/Message/do_like
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000489s ]
+SQL: SHOW COLUMNS FROM `message` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `message` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0002s ]
+SQL: UPDATE `message` SET `total_likes`='1' WHERE `id` = 7 [ RunTime:0.0002s ]
+

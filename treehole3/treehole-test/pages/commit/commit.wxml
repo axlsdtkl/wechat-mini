@@ -1,0 +1,5 @@
+<!--pages/commit/commit.wxml-->
+<view class='textarea'>
+   <textarea placeholder="我要打卡呀~" placeholder-style="color:#888888; font-size:38rpx;" class='textinput' maxlength='-1' bindinput ="bindTextAreaBlur"></textarea>
+</view>
+<view id='btn' class='click' bindtap='send'>打卡</view>

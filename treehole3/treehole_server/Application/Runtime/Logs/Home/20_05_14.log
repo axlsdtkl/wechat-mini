@@ -1,0 +1,280 @@
+[ 2020-05-14T00:33:48+08:00 ] ::1 /treehole/index.php/Home/Message/get_all_messages
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000715s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000748s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000762s ]
+SQL: SHOW COLUMNS FROM `message` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `message`  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001106s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001120s ]
+
+[ 2020-05-14T00:35:27+08:00 ] ::1 /treehole/index.php/Home/Message/get_all_messages
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000494s ]
+SQL: SHOW COLUMNS FROM `message` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `message` ORDER BY id desc  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000522s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000535s ]
+
+[ 2020-05-14T00:42:13+08:00 ] ::1 /treehole/index.php/Home/Message/get_all_messages
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000509s ]
+SQL: SHOW COLUMNS FROM `message` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `message` ORDER BY id desc  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: all_message D:\software\phpstudy_pro\WWW\treehole\Application\Home\Controller\MessageController.class.php 第 81 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\software\phpstudy_pro\WWW\treehole\Application\Home\Controller\MessageController.class.php 第 81 行.
+
+[ 2020-05-14T00:44:03+08:00 ] ::1 /treehole/index.php/Home/Message/get_all_messages
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000414s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000430s ]
+SQL: SHOW COLUMNS FROM `message` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `message` ORDER BY id desc  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: all_message D:\software\phpstudy_pro\WWW\treehole\Application\Home\Controller\MessageController.class.php 第 81 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\software\phpstudy_pro\WWW\treehole\Application\Home\Controller\MessageController.class.php 第 81 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000590s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000601s ]
+
+[ 2020-05-14T00:45:05+08:00 ] ::1 /treehole/index.php/Home/Message/get_all_messages
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000513s ]
+SQL: SHOW COLUMNS FROM `message` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `message` ORDER BY id desc  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000561s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000573s ]
+
+[ 2020-05-14T00:45:19+08:00 ] ::1 /treehole/index.php/Home/Message/get_all_messages
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000485s ]
+SQL: SHOW COLUMNS FROM `message` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `message` ORDER BY id desc  [ RunTime:0.0002s ]
+
+[ 2020-05-14T00:46:53+08:00 ] ::1 /treehole/index.php/Home/Message/get_all_messages
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000507s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000525s ]
+SQL: SHOW COLUMNS FROM `message` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `message` ORDER BY id desc  [ RunTime:0.0002s ]
+
+[ 2020-05-14T00:47:37+08:00 ] ::1 /treehole/index.php/Home/Message/get_all_messages
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000586s ]
+SQL: SHOW COLUMNS FROM `message` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `message` ORDER BY id desc  [ RunTime:0.0002s ]
+
+[ 2020-05-14T00:47:58+08:00 ] ::1 /treehole/index.php/Home/Message/get_all_messages
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000521s ]
+SQL: SHOW COLUMNS FROM `message` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `message` ORDER BY id desc  [ RunTime:0.0002s ]
+
+[ 2020-05-14T00:56:03+08:00 ] ::1 /treehole/index.php/Home/Message/get_all_messages
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000533s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000554s ]
+SQL: SHOW COLUMNS FROM `message` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `message` ORDER BY id desc  [ RunTime:0.0002s ]
+
+[ 2020-05-14T00:56:21+08:00 ] ::1 /treehole/index.php/Home/Message/do_like
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000607s ]
+NOTIC: [8] Undefined index: message_id D:\software\phpstudy_pro\WWW\treehole\Application\Home\Controller\MessageController.class.php 第 97 行.
+
+[ 2020-05-14T00:56:37+08:00 ] ::1 /treehole/index.php/Home/Message/do_like
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000460s ]
+NOTIC: [8] Undefined index: user_id D:\software\phpstudy_pro\WWW\treehole\Application\Home\Controller\MessageController.class.php 第 104 行.
+
+[ 2020-05-14T00:56:45+08:00 ] ::1 /treehole/index.php/Home/Message/do_like
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000373s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000580s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000601s ]
+
+[ 2020-05-14T00:56:59+08:00 ] ::1 /treehole/index.php/Home/Message/do_like
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000442s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000483s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000499s ]
+
+[ 2020-05-14T01:02:20+08:00 ] ::1 /treehole/index.php/Home/Message/do_like
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000476s ]
+NOTIC: [8] Undefined variable: Message D:\software\phpstudy_pro\WWW\treehole\Application\Home\Controller\MessageController.class.php 第 117 行.
+ERR: Call to a member function where() on null
+
+[ 2020-05-14T01:03:45+08:00 ] ::1 /treehole/index.php/Home/Message/do_like
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000531s ]
+SQL: SHOW COLUMNS FROM `message` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `message` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2020-05-14T01:04:17+08:00 ] ::1 /treehole/index.php/Home/Message/do_like
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000474s ]
+SQL: SHOW COLUMNS FROM `message` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `message` WHERE `id` = 5 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000627s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000641s ]
+
+[ 2020-05-14T11:17:23+08:00 ] ::1 /treehole/index.php/Home/Message/do_like
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000925s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000947s ]
+SQL: SHOW COLUMNS FROM `message` [ RunTime:0.0489s ]
+SQL: SELECT * FROM `message` WHERE `id` = 5 LIMIT 1   [ RunTime:0.0042s ]
+SQL: UPDATE `message` SET `total_likes`='1' WHERE `id` = 5 [ RunTime:0.0220s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000932s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000945s ]
+
+[ 2020-05-14T11:22:36+08:00 ] ::1 /treehole/index.php/Home/Message/do_like
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000477s ]
+SQL: SHOW COLUMNS FROM `message` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `message` WHERE `id` = 5 LIMIT 1   [ RunTime:0.0002s ]
+SQL: UPDATE `message` SET `total_likes`='2' WHERE `id` = 5 [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: _data D:\software\phpstudy_pro\WWW\treehole\Application\Home\Controller\MessageController.class.php 第 146 行.
+
+[ 2020-05-14T11:22:57+08:00 ] ::1 /treehole/index.php/Home/Message/do_like
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000526s ]
+SQL: SHOW COLUMNS FROM `message` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `message` WHERE `id` = 5 LIMIT 1   [ RunTime:0.0002s ]
+SQL: UPDATE `message` SET `total_likes`='3' WHERE `id` = 5 [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: _data D:\software\phpstudy_pro\WWW\treehole\Application\Home\Controller\MessageController.class.php 第 146 行.
+
+[ 2020-05-14T17:59:59+08:00 ] ::1 /treehole/index.php/Home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000479s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000613s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000628s ]
+
+[ 2020-05-14T18:09:05+08:00 ] ::1 /treehole/index.php/Home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000479s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000532s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000550s ]
+
+[ 2020-05-14T18:09:20+08:00 ] ::1 /treehole/index.php/Home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000494s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000465s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000485s ]
+
+[ 2020-05-14T20:20:39+08:00 ] ::1 /treehole/index.php/Home/Message/publish_new_message
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000429s ]
+SQL: SHOW COLUMNS FROM `message` [ RunTime:0.0018s ]
+SQL: INSERT INTO `message` (`user_id`,`username`,`face_url`,`content`,`total_likes`,`send_timestamp`) VALUES ('1','张三','xxxx.jpg','开心！！！','0','1589458839') [ RunTime:0.0047s ]
+
+[ 2020-05-14T20:22:46+08:00 ] ::1 /treehole/index.php/Home/Message/publish_new_message
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000462s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000478s ]
+SQL: SHOW COLUMNS FROM `message` [ RunTime:0.0004s ]
+SQL: INSERT INTO `message` (`user_id`,`username`,`face_url`,`content`,`total_likes`,`send_timestamp`) VALUES ('1','张三','xxxx.jpg','开心！！！','0','1589458966') [ RunTime:0.0001s ]
+
