@@ -1,0 +1,2 @@
+treehole_server是服务器代码，采用了thinkphp框架编写
+treehole-test是小程序代码，用微信开发者工具即可打开
